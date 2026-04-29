@@ -1,6 +1,6 @@
 # Mouhssine Rifaki
 
-I work on reinforcement learning that does not need millions of trials. currently working at the EMERGE Lab at NYU Tandon, april through september 2026. starting a PhD at Imperial College London EEE in october 2026. before that, MVA master's at ENS Paris-Saclay and a math BSc at Sorbonne. notes on deep learning theory at https://rifaki.me/notes
+i work on reinforcement learning that does not need millions of trials. currently working at the EMERGE Lab at NYU Tandon, april through september 2026. starting a PhD at Imperial College London EEE in october 2026. before that, MVA master's at ENS Paris-Saclay and a math BSc at Sorbonne. notes on deep learning theory at https://rifaki.me/notes
 
 website: [rifaki.me](https://rifaki.me)
 
