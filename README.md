@@ -1,6 +1,6 @@
 # Mouhssine Rifaki
 
-i work on reinforcement learning that does not need millions of trials, currently working at the Arbabian Lab/EMERGE Lab at Stanford/NYU, i will start a PhD at Imperial College London in october 2026, before that, i did the MVA master's at ENS Paris-Saclay and a math BSc at Sorbonne, notes on deep learning theory at https://rifaki.me/notes
+i reinforce the learning for a living, currently working at the Arbabian Lab/EMERGE Lab at Stanford/NYU, i will start a PhD at Imperial College London in october 2026, before that, i did the MVA master's at ENS Paris-Saclay and a math BSc at Sorbonne, notes on deep learning theory at https://rifaki.me/notes
 
 website: [rifaki.me](https://rifaki.me)
 
